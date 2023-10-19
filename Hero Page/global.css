@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-small: "DM Sans";
+  --font-dm-serif-display: "DM Serif Display";
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --font-size-4xl: 23px;
+  --body-small-size: 16px;
+
+  /* Colors */
+  --primary: #7a7aff;
+  --neutral-0: #fff;
+  --text-primary: #2e2e5b;
+  --neutral-2: #dee5ed;
+  --neutral-1: #eff2f6;
+  --neutral-10: #486284;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-11xl: 30px;
+  --br-41xl: 60px;
+}
